@@ -1,1 +1,1 @@
-Repository where i upload my examples of k6 
+Repository where i upload my k6 examples
